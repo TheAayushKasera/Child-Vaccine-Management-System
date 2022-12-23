@@ -2,8 +2,8 @@ import mysql.connector
 import os
 from twilio.rest import Client
 
-account_sid = 'AC3931f5bf3d38e69b0022f2217a34af5a'
-auth_token = 'fb99be589aa579adb35bc31562159b9f'
+account_sid = '--'
+auth_token = '--'
 client = Client(account_sid, auth_token)
 
 
